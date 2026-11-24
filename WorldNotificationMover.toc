@@ -2,9 +2,10 @@
 ## Title: World Notification Mover
 ## Notes: Drag the "World refresh in N Seconds" notification (and similar world notifications) anywhere on screen. Type /wnm.
 ## Author: Kyle
-## Version: 1.2.0
+## Version: 1.2.1
 ## IconTexture: Interface\AddOns\WorldNotificationMover\Icon
 ## X-License: MIT
+## X-Curse-Project-ID: 1827266
 ## SavedVariables: WorldNotificationMoverDB
 
 WorldNotificationMover.lua

@@ -18,4 +18,8 @@ jobs:
       - uses: actions/checkout@v4
         with:
           fetch-depth: 0
+      # Tag uploads as WoW Forever (1.60.1) only. The .toc keeps 50504 so the
+      # client still loads it, but CurseForge would read that as 5.5.4.
       - uses: BigWigsMods/packager@v2
+        with:
+          args: -g 1.60.1

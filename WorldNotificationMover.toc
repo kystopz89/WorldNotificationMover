@@ -1,0 +1,10 @@
+## Interface: 16001, 50504
+## Title: World Notification Mover
+## Notes: Drag the "World refresh in N Seconds" notification (and similar world notifications) anywhere on screen. Type /wnm.
+## Author: Kyle
+## Version: 1.2.0
+## IconTexture: Interface\Icons\INV_Misc_PocketWatch_01
+## X-License: MIT
+## SavedVariables: WorldNotificationMoverDB
+
+WorldNotificationMover.lua

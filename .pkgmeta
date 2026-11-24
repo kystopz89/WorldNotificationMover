@@ -1,0 +1,6 @@
+package-as: WorldNotificationMover
+
+ignore:
+  - README.md
+
+enable-nolib-creation: no
